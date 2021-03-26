@@ -592,8 +592,6 @@ http://dns.fastuhd.online/live/Josetb05/83507351/172741.m3u8
 http://dns.fastuhd.online/live/Josetb05/83507351/173260.m3u8
 #EXTINF:-1 type="stream" tvg-id="George O Curioso" tvg-logo="http://dns.jserverstv.ml:80/images/266596368f5b5627794f8e7968ad62cf.png" group-title="CANAIS | 24HS",George O Curioso
 http://dns.fastuhd.online/live/Josetb05/83507351/175304.m3u8
-#EXTINF:-1 type="stream" tvg-id="GLOBO BAHIA  FHD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA  FHD (SALVADOR)
-http://dns.fastuhd.online/live/Josetb05/83507351/173164.m3u8
 #EXTINF:-1 type="stream" tvg-id="GLOBO BAHIA HD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD (SALVADOR)
 http://dns.fastuhd.online/live/Josetb05/83507351/173165.m3u8
 #EXTINF:-1 type="stream" tvg-id="GLOBO BRASILIA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA
@@ -1131,8 +1129,6 @@ http://dns.fastuhd.online/live/Josetb05/83507351/174022.m3u8
 http://dns.fastuhd.online/live/Josetb05/83507351/173328.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV BAHIA" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV BAHIA
 http://dns.fastuhd.online/live/Josetb05/83507351/173216.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV BH HD" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV BH HD
-http://dns.fastuhd.online/live/Josetb05/83507351/173217.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV BRASIL HD" tvg-logo="https://1.bp.blogspot.com/-upBrSb0n-78/YBxY8Gxf45I/AAAAAAAAJzg/pRj_p6x4Z_8VXewdBmZRXTifArhdHuAfQCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
 http://dns.fastuhd.online/live/Josetb05/83507351/173255.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV BRASIL HD" tvg-logo="http://dns.jserverstv.ml:80/images/c823e25df7f664699e9dc5ef4337494e.png" group-title="CANAIS | ABERTOS",TV BRASIL HD
@@ -1177,8 +1173,6 @@ http://dns.fastuhd.online/live/Josetb05/83507351/173282.m3u8
 http://dns.fastuhd.online/live/Josetb05/83507351/173232.m3u8
 #EXTINF:-1 type="stream" tvg-id="Tv Serra Dourada HD (Sbt)" tvg-logo="http://dns.jserverstv.ml:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | ABERTOS",Tv Serra Dourada HD (Sbt)
 http://dns.fastuhd.online/live/Josetb05/83507351/173283.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV SUBAE (GLOBO BAHIA HD)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",TV SUBAE (GLOBO BAHIA HD)
-http://dns.fastuhd.online/live/Josetb05/83507351/173233.m3u8
 #EXTINF:-1 type="stream" tvg-id="Tv Taroba HD [band parana]" tvg-logo="http://dns.jserverstv.ml:80/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS | ABERTOS",Tv Taroba HD [band parana]
 http://dns.fastuhd.online/live/Josetb05/83507351/173284.m3u8
 #EXTINF:-1 type="stream" tvg-id="TV Tribuna Santos" tvg-logo="" group-title="CANAIS | ABERTOS",TV Tribuna Santos
