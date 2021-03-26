@@ -620,7 +620,7 @@ http://dns.fastuhd.online/live/Josetb05/83507351/173176.m3u8
 http://dns.fastuhd.online/live/Josetb05/83507351/173479.m3u8
 #EXTINF:-1 type="stream" tvg-id="Globosat SD" tvg-logo="https://lh3.googleusercontent.com/-156xqW-BlXM/YB2LVcPyC2I/AAAAAAAAJ8g/A3bYkrKjqi09DknAXLGchXNkyH-SmMmSACLcBGAsYHQ/Mais%2BGlobosat.png" group-title="CANAIS | VARIEDADES",Globosat SD
 http://dns.fastuhd.online/live/Josetb05/83507351/173485.m3u8
-#EXTINF:-1 type="stream" tvg-id="GLOGO SERGIPE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOGO SERGIPE
+#EXTINF:-1 type="stream" tvg-id="GLOBO SERGIPE" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO SERGIPE
 http://dns.fastuhd.online/live/Josetb05/83507351/173181.m3u8
 #EXTINF:-1 type="stream" tvg-id="GNT" tvg-logo="https://lh3.googleusercontent.com/-tK5Nc4_y19A/YB1vaG-u5GI/AAAAAAAAJ8A/-JO0NZoh28MUMFXzJiSDPOtgHys3VTz8wCLcBGAsYHQ/GNT.png" group-title="CANAIS | VARIEDADES",GNT
 http://dns.fastuhd.online/live/Josetb05/83507351/173480.m3u8
