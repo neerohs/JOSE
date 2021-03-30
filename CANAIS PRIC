@@ -1,5 +1,32 @@
 #EXTM3U
 
+--------------RELIGIAO
+
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES FHD" tvg-logo="http://dns.jserverstv.ml:80/images/de50711e9b602954bd928ba8722e73ab.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA ES FHD
+http://dns.fastuhd.online:80/Josetb05/83507351/174014
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES HD" tvg-logo="http://dns.jserverstv.ml:80/images/de50711e9b602954bd928ba8722e73ab.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA ES HD
+http://dns.fastuhd.online:80/Josetb05/83507351/174015
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA ES SD" tvg-logo="http://dns.jserverstv.ml:80/images/de50711e9b602954bd928ba8722e73ab.png" group-title="CANAIS | RELIGIOSOS",CANCAO NOVA ES SD
+http://dns.fastuhd.online:80/Josetb05/83507351/174016
+#EXTINF:-1 tvg-id="" tvg-name="IMPD TV FHD" tvg-logo="http://dns.jserverstv.ml:80/images/e3928939543ff57d5d3a5abde9c13c44.png" group-title="CANAIS | RELIGIOSOS",IMPD TV FHD
+http://dns.fastuhd.online:80/Josetb05/83507351/174017
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD" tvg-logo="http://dns.jserverstv.ml:80/images/9258c67e461b3adcb31c795c60bf3681.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
+http://dns.fastuhd.online:80/Josetb05/83507351/174018
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO HD" tvg-logo="http://dns.jserverstv.ml:80/images/9258c67e461b3adcb31c795c60bf3681.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO HD
+http://dns.fastuhd.online:80/Josetb05/83507351/174019
+#EXTINF:-1 tvg-id="" tvg-name="NOVO TEMPO SD" tvg-logo="http://dns.jserverstv.ml:80/images/9258c67e461b3adcb31c795c60bf3681.png" group-title="CANAIS | RELIGIOSOS",NOVO TEMPO SD
+http://dns.fastuhd.online:80/Josetb05/83507351/174020
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA SD" tvg-logo="http://dns.jserverstv.ml:80/images/9347317368b0c37aeb5789815af70512.png" group-title="CANAIS | RELIGIOSOS",REDE VIDA SD
+http://dns.fastuhd.online:80/Josetb05/83507351/174021
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA SD" tvg-logo="http://dns.jserverstv.ml:80/images/7b5021f71c317dba28a04f06bf352593.png" group-title="CANAIS | RELIGIOSOS",TV APARECIDA SD
+http://dns.fastuhd.online:80/Josetb05/83507351/174022
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV EVANGELIZAR SD" tvg-logo="http://dns.jserverstv.ml:80/images/5e35de32b81a21cbf803f60ab967f383.png" group-title="CANAIS | RELIGIOSOS",TV EVANGELIZAR SD
+http://dns.fastuhd.online:80/Josetb05/83507351/174023
+#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="http://dns.jserverstv.ml:80/images/62f519a659f91fc0ec17f8d10ed76fe1.png" group-title="CANAIS | RELIGIOSOS",TV PAI ETERNO HD
+http://dns.fastuhd.online:80/Josetb05/83507351/174024
+
+
+
 ------------------GLOBO
 
 #EXTINF:-1 tvg-id="Globo Bahia" tvg-name="GLOBO BAHIA HD (SALVADOR)" tvg-logo="http://dns.jserverstv.ml:80/images/909f6c90b6db150078092be31dc47ffd.png" group-title="CANAIS | GLOBO",GLOBO BAHIA HD (SALVADOR)
